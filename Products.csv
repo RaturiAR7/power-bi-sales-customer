@@ -1,0 +1,21 @@
+ProductID,ProductName,ProductCategory,UnitPrice
+P001,Clothing Product 1,Clothing,381.4
+P002,Clothing Product 2,Clothing,29.84
+P003,Clothing Product 3,Clothing,208.42
+P004,Office Supplies Product 4,Office Supplies,484.22
+P005,Office Supplies Product 5,Office Supplies,295.86
+P006,Furniture Product 6,Furniture,257.3
+P007,Office Supplies Product 7,Office Supplies,78.48
+P008,Electronics Product 8,Electronics,313.0
+P009,Office Supplies Product 9,Office Supplies,493.76
+P010,Furniture Product 10,Furniture,161.97
+P011,Electronics Product 11,Electronics,450.43
+P012,Office Supplies Product 12,Office Supplies,241.35
+P013,Electronics Product 13,Electronics,183.36
+P014,Office Supplies Product 14,Office Supplies,309.33
+P015,Furniture Product 15,Furniture,483.64
+P016,Clothing Product 16,Clothing,226.92
+P017,Office Supplies Product 17,Office Supplies,40.52
+P018,Electronics Product 18,Electronics,55.7
+P019,Clothing Product 19,Clothing,358.02
+P020,Electronics Product 20,Electronics,309.83
